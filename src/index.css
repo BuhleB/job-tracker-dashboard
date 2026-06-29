@@ -15,3 +15,9 @@
     scrollbar-color: #24242E #15151D;
   }
 }
+
+@layer components {
+  .input {
+    @apply w-full bg-surfaceHover border border-border rounded-lg px-3 py-2 text-ink placeholder-muted focus:outline-none focus:border-accent;
+  }
+}

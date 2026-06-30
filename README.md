@@ -2,7 +2,7 @@
 
 A React dashboard for tracking job applications — built as the frontend companion to the [Job Application Tracker API](https://github.com/BuhleB/job-tracker-api).
 
-**Live demo:** _add your Netlify URL here_
+**Live demo:** https://jobtacker.netlify.app/
 **API docs:** https://job-tracker-api-1sca.onrender.com/docs
 
 ## Features
